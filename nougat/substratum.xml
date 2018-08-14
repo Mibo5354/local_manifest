@@ -14,17 +14,17 @@
     <remove-project name="LineageOS/android_vendor_cm" />
 
     <!-- Add repos for Substratum support -->
-    <project path="frameworks/base" name="LineageSubstratum/android_frameworks_base" remote="github" revision="oms-n" />
-    <project path="frameworks/native" name="LineageSubstratum/android_frameworks_native" remote="github" revision="oms-n" />
-    <project path="packages/apps/Contacts" name="LineageSubstratum/android_packages_apps_Contacts" remote="github" revision="oms-n" />
-    <project path="packages/apps/ContactsCommon" name="LineageSubstratum/android_packages_apps_ContactsCommon" remote="github" revision="oms-n" />
-    <project path="packages/apps/Dialer" name="LineageSubstratum/android_packages_apps_Dialer" remote="github" revision="oms-n" />
-    <project path="packages/apps/ExactCalculator" name="LineageSubstratum/android_packages_apps_ExactCalculator" remote="github" revision="oms-n" />
-    <project path="packages/apps/PackageInstaller" name="LineageSubstratum/android_packages_apps_PackageInstaller" remote="github" revision="oms-n" />
-    <project path="packages/apps/PhoneCommon" name="LineageSubstratum/android_packages_apps_PhoneCommon" remote="github" revision="oms-n" />
-    <project path="packages/apps/Settings" name="LineageSubstratum/android_packages_apps_Settings" remote="github" revision="oms-n" />
-    <project path="system/sepolicy" name="LineageSubstratum/android_system_sepolicy" remote="github" revision="oms-n" />
-    <project path="vendor/cm" name="LineageSubstratum/android_vendor_cm" remote="github" revision="oms-n" />
+    <project path="frameworks/base" name="LineageSubstratum/android_frameworks_base" remote="github" revision="cm-14.1" />
+    <project path="frameworks/native" name="LineageSubstratum/android_frameworks_native" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/Contacts" name="LineageSubstratum/android_packages_apps_Contacts" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/ContactsCommon" name="LineageSubstratum/android_packages_apps_ContactsCommon" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/Dialer" name="LineageSubstratum/android_packages_apps_Dialer" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/ExactCalculator" name="LineageSubstratum/android_packages_apps_ExactCalculator" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/PackageInstaller" name="LineageSubstratum/android_packages_apps_PackageInstaller" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/PhoneCommon" name="LineageSubstratum/android_packages_apps_PhoneCommon" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/Settings" name="LineageSubstratum/android_packages_apps_Settings" remote="github" revision="cm-14.1" />
+    <project path="system/sepolicy" name="LineageSubstratum/android_system_sepolicy" remote="github" revision="cm-14.1" />
+    <project path="vendor/cm" name="LineageSubstratum/android_vendor_cm" remote="github" revision="cm-14.1" />
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
