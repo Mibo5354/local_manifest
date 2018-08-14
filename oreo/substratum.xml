@@ -7,8 +7,8 @@
     <remove-project name="LineageOS/android_system_sepolicy" />
 
     <!-- Add repos for Substratum support -->
-    <project path="build" name="LineageSubstratum/android_build" remote="github" revision="oms-o" />
-    <project path="frameworks/base" name="LineageSubstratum/android_frameworks_base" remote="github" revision="oms-o" />
-    <project path="packages/apps/Settings" name="LineageSubstratum/android_packages_apps_Settings" remote="github" revision="oms-o" />
-    <project path="system/sepolicy" name="LineageSubstratum/android_system_sepolicy" remote="github" revision="oms-o" />
+    <project path="build" name="LineageSubstratum/android_build" remote="github" revision="lineage-15.1" />
+    <project path="frameworks/base" name="LineageSubstratum/android_frameworks_base" remote="github" revision="lineage-15.1" />
+    <project path="packages/apps/Settings" name="LineageSubstratum/android_packages_apps_Settings" remote="github" revision="lineage-15.1" />
+    <project path="system/sepolicy" name="LineageSubstratum/android_system_sepolicy" remote="github" revision="lineage-15.1" />
 </manifest>
